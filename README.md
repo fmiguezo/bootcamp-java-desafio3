@@ -8,4 +8,5 @@ Paso a paso de los comandos (empezando desde la rama custom-navbar):
 - git rm status.js (borrar status.js)
 - git commit -m "Delete status.js" (commiteo)
 - git push origin main (pusheo a main)
-- git checkout custom-navbar (para volver a la rama donde estaba trabajando)
+- git checkout custom-navbar (volver a la rama donde estaba trabajando)
+- git stash pop (traigo lo que guardé)
